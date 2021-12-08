@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "Neucha Regular";
+    src: url(./fonts/Neucha-Regular.ttf);
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(./fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+.first-block-image {
+    height: 444px;
+    width: 952px;
+}
+.first-block-image-position {
+    display: flex;
+    position: absolute;
+    left: 520px;
+    top: 90px;
+}
+.first-block-title-orange {
+    color: #FE8A02;
+}
+.first-block-title-black {
+    color: #2A2626;
+}
+.first-block-title {
+    font-size: 72px;
+    font-family: "Neucha Regular", sans-serif;
+}
+.first-block-title-position {
+    display: flex;
+    position: absolute;
+    left: 165px;
+    top: 40px;
+
+}
+.first-block-main-text-position {
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    align-items: flex-start;
+    top: 539px;
+    left: 165px;
+}
+.first-block-main-text {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #2A2626;
+}
+.text1 {
+    width: 540px;
+    margin-right: 25px;
+}
+.text2 {
+    width: 540px;
+}
+    
+
